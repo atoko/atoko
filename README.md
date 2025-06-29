@@ -17,7 +17,9 @@ Ultimately, we pulled through and delivered everything. A lesson to remember: th
 # Let's get philosophical 
 
 ## What's your favorite technology?
-Honestly? The rice cooker. Neat little thing. Oh, programming language? Well, I do regularly contribute to typescript codebases [^1]. Regardless, I don't have any favorites. I try and choose the most applicable tools that is appropriate for the task. I'm fond of Software Engineering as a craft -- there are a lot of technologies, too many, in fact [^2]. However, I have a special place in my heart for frontend engineers. Design Systems rock!
+Honestly? The rice cooker. Neat little thing. Oh, programming language? Well, I do regularly contribute to typescript codebases [^1]. 
+
+Regardless, I don't have any favorites. I try and choose the most applicable tool that is appropriate for the task. I'm fond of Software Engineering as a craft -- there are a lot of technologies, too many, in fact [^2]. However, I have a special place in my heart for frontend engineers. Design Systems rock!
 
 In no particular order, here are some technologies I'm familiar with:
 - Pl/SQL
