@@ -34,7 +34,17 @@ Learn Markdown, it will help you organize your thoughts.
 
 # How do you utilize your power to uplift those around you?
 
-I believe in the power of collaboration; To me it is not about being right, but about working towards a common goal. Volunteering my time to Girls Who Code, I spent more time thinking about developer experience than about database schemas. 
+I believe in the power of collaboration; To me it is not about being right, but about working towards a common goal. Volunteering my time to Girls Who Code, I spent more time thinking about developer experience than about database schemas.
+
+I channel my energy in my free time to create art. Since young, I was always taught to keep myself busy. To me, this meant creating. Some of my favorites (both legacy and new):
+
+- Photoshop
+- Snapseed
+- Notepad++
+- Blender
+- Renoise
+
+I consider myself a bit of a chiptune freak, if you will.
 
 # How do you balance the pursuit of professional and personal fulfillment?
 
