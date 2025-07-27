@@ -12,7 +12,7 @@ When I was young, I started my career by creating mobile applications. This was 
 
 Ultimately, we pulled through and delivered everything. A lesson to remember: the process of creativity takes time!
 
-# Let's get philosophical 
+# Skills
 
 ## What's your favorite technology right now?
 Honestly? I'm a fan of everything javascript. [^1]. 
@@ -33,20 +33,13 @@ In no particular order, these are some of the technologies I'm familiar with:
 
 I believe in the power of collaboration; To me it is not about being right, but about working towards a common goal. Volunteering my time to Girls Who Code, I spent more time thinking about developer experience than about database schemas.
 
+# What else do you do?
+
 I channel my energy in my free time to create art. Since young, I was always taught to keep myself busy. To me, this meant creating. Some of my favorites:
 
 - Pixelmator
 - Renoise
 - Serum 2
-
-I consider myself a bit of a chiptune freak, if you will.
-
-# How do you balance the pursuit of professional and personal fulfillment?
-
-One small piece of advice: never take code personally. Code that doesn't work can still be learned from, and tomorrow is a fresh start. Repeat after me: 
-**"Not all of my pull requests will be accepted. Not everyone will have the same opinion"**. As long as you are coherent, you can always find a way to compromise.
-
-Always do your best, knowing that if your team is on the same wavelength, you will find success.
 
 [^1]: Kind of a [HonoX](https://github.com/honojs/honox) fan
 [^2]: https://xkcd.com/927/. I'm kidding -- technology is good!
