@@ -33,7 +33,8 @@ In no particular order, these are some of the technologies I'm familiar with:
 - Databases: NoSQL (DynamoDB), Postgres, PL/SQL
 
 ## Any advice to your readers?
-- Being well organized with codebases improves understanding of every feature's scope. Documentation, tests and clear instructions contribute the most to a project's health.
+- Being well organized with codebases improves understanding of every feature's scope.
+- Documentation, tests and clear instructions contribute the most to a project's health.
 - Learn Markdown, it will help you organize your thoughts.
 
 # How do you utilize your power to uplift those around you?
