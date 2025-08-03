@@ -1,6 +1,6 @@
-# What a surprise to see you here! (shocked) Who are you?
+# What a surprise to see you here! Who are you?
 
-I'm software engineer from a musician family. I started playing with all sorts of knobs and keyboards at an early age, tinkering with tape machines, and retro computers.  I initially dreamt of composing video game scores or even creating the games themselves. Growing up, my journey was always to create experiences that would inspire.
+I'm @atoko, a software engineer from a musician family. I started playing with keyboards and retro computers at an early age, tinkering and creating games in C++.  I initially dreamt of composing video game scores or even creating the games themselves. Growing up, my journey was always to create experiences that would inspire.
 
 ## Why ?
  Learning a new technology is exciting to me -- I do not see it as a challenge but as a new opportunity for self expression. Much like learning a new instrument. 
@@ -12,13 +12,20 @@ When I was young, I started my career by creating mobile applications. This was 
 
 Ultimately, we pulled through and delivered everything. A lesson to remember: the process of creativity takes time!
 
+# And now?
+
+I am formally a frontend and backend developer, having worked in the industry for over a decade. My strengths are:
+- data modeling and querying
+- infrastructure as code and ci/cd for frontend
+- SDLC processes and codebase maturity
+
 # Skills
 
 ## What's your favorite technology right now?
 Honestly? I'm a fan of everything javascript. [^1]. 
 
 ## Anything else?
-I try and choose the most applicable tool that is appropriate for the task. I'm fond of Software Engineering as a craft -- there are a lot of technologies, too many, in fact [^2]. However, I have a special place in my heart for frontend engineers. Design Systems rock!
+I try and choose the most applicable tool that is appropriate for the task. I'm fond of Software Engineering as a craft -- there are a lot of technologies, too many, in fact [^2]. However, Design Systems rock!
 
 In no particular order, these are some of the technologies I'm familiar with:
 - Frontend: React, HTML/a11y, Typescript
