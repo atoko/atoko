@@ -2,6 +2,7 @@
 
 I'm @atoko, a software engineer from a musician family. I started playing with keyboards and retro computers at an early age, tinkering and creating games in C++.  I initially dreamt of composing video game scores or even creating the games themselves. Growing up, my journey was always to create experiences that would inspire.
 
+for more information, feel free to contact me at omegatitan@gmail.com
 ## Why ?
  Learning a new technology is exciting to me -- I do not see it as a challenge but as a new opportunity for self expression. Much like learning a new instrument. 
 
