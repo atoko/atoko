@@ -23,9 +23,5 @@ In no particular order, these are some of the technologies I'm familiar with:
 - Documentation, tests and clear instructions contribute the most to a project's health.
 - Learn Markdown, it will help you organize your thoughts.
 
-# How do you utilize your power to uplift those around you?
-
-I believe in the power of collaboration; To me it is not about being right, but about working towards a common goal. Volunteering my time to Girls Who Code, I spent more time thinking about developer experience than about database schemas.
-
 [^1]: Kind of a [HonoX](https://github.com/honojs/honox) fan
 
